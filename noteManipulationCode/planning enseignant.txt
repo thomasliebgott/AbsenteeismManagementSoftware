@@ -1,0 +1,1 @@
+pour afficher le planning d'un enseignant il faut lui attribuer des cours via la creation de planning 

@@ -1,0 +1,12 @@
+creation planning gestionnaire
+
+--> avoir deja créer au moins une session 
+
+_s'authentifier avce le gestionnaire 
+_cliquer sur Gestion de Planning 
+_choisir dans les ComboBox les parametres souhaitaient 
+_cliquer dans la case ou vous souhaitez ajouter le cours 
+_appuyer sur ajouter 
+_le cours d'ajoute dans la case 
+_une fois fini apuyyer sur terminer pour enregistrer 
+

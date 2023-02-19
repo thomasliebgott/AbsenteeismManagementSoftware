@@ -1,0 +1,6 @@
+identitfication : 
+
+de base plusieurs étudiant/gestionnaire/enseignant sont crées
+id : 1 mdp : test --> ouvre menu étudiant 
+id : 2 mdp : test --> ouvre menu enseignant 
+id : 3 mdp : test --> ouvre menu Gestionnaire 

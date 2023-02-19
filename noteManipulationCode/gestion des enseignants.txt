@@ -1,0 +1,25 @@
+Gestion enseignants
+
+Ajouter enseignants
+
+_ se connecter 
+_ gestion des enseignants
+_ ajouter
+_ confirmer 
+_ l'étudiant est ajouté
+
+modifier enseignants
+_ se connecter 
+_ gestion des enseignants
+_ cliquer sur modifier 
+_ cliquer sur l'éléve choisi 
+_ modifer 
+_ confirmer 
+_ enseignants est modifié 
+
+supprimer enseignants
+_ se connecter 
+_ gestion des enseignants
+_ cliquer sur supprimer 
+_ cliquer sur enseignants a supprimer 
+_ enseignants est surppimer 

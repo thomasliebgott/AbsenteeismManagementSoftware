@@ -1,0 +1,1 @@
+pour voir planning absence il faut dans un premier temps créer une session puis un planning 

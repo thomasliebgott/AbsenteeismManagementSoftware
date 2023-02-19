@@ -1,0 +1,5 @@
+faire appel
+
+la liaison entre planning enseignant et l'appel n'a pas était fait a temps malheureusement 
+vous pouvez cependant en compilant dans eclipse faire l'appel du groupe parametrer et de 
+la seance parametrer dans le code 

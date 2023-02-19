@@ -1,0 +1,3 @@
+Lancer le logiciel
+
+Compiler la classe authentification dans GUI 

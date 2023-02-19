@@ -1,0 +1,25 @@
+Gestion groupes 
+
+Ajouter groupes 
+
+_ se connecter 
+_ gestion des groupes 
+_ ajouter
+_ confirmer 
+_ groupes est ajouté
+
+modifier groupes 
+_ se connecter 
+_ gestion des groupes 
+_ cliquer sur modifier 
+_ cliquer sur groupes choisi 
+_ modifer 
+_ confirmer 
+_ groupes est modifié 
+
+supprimer groupes 
+_ se connecter 
+_ gestion des groupes 
+_ cliquer sur supprimer 
+_ cliquer sur groupes a supprimer 
+_ groupes est surppimer 

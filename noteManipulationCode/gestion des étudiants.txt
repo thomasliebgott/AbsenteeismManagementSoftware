@@ -1,0 +1,25 @@
+Gestion etudiant 
+
+Ajouter étudiant 
+
+_ se connecter 
+_ gestion des étudiants
+_ ajouter
+_ confirmer 
+_ l'étudiant est ajouté
+
+modifier étudiant 
+_ se connecter 
+_ gestion des étudiants
+_ cliquer sur modifier 
+_ cliquer sur l'éléve choisi 
+_ modifer 
+_ confirmer 
+_ l'éléve est modifié 
+
+supprimer étudiant 
+_ se connecter 
+_ gestion des étudiants
+_ cliquer sur supprimer 
+_ cliquer sur l'élève a supprimer 
+_ éleve est surppimer 
